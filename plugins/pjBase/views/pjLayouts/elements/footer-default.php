@@ -10,7 +10,7 @@
         	    echo pjSanitize::html($tpl['option_arr']['o_footer_text']);
         	}else{
             	?>
-                Copyright <strong><a href="https://www.PHPJabbers.com/" target="_blank">PHPJabbers.com</a></strong> &copy; <?php echo date("Y"); ?>
+                Copyright <strong><a href="https://www.webbypage.com/" target="_blank">WebbyPage</a></strong> &copy; <?php echo date("Y"); ?>
                 <?php
         	}
             ?>

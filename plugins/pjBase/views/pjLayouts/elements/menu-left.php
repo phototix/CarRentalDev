@@ -32,7 +32,7 @@ $isSystemOptions = $isGeneralOptions || $isBackup || $isLocale || $isSms || $isV
             	if($tpl['option_arr']['o_hide_phpjabbers_logo'] == 'No')
             	{
                 	?>
-                    <a href="https://www.phpjabbers.com" class="navbar-brand" target="_blank">PHPJabbers</a>
+                    <a href="https://www.webbypage.com" class="navbar-brand" target="_blank">WebbyPage</a>
                     <?php
             	}
                 ?>
@@ -43,7 +43,7 @@ $isSystemOptions = $isGeneralOptions || $isBackup || $isLocale || $isSms || $isV
                     if($tpl['option_arr']['o_hide_phpjabbers_logo'] == 'No')
                     {
                         ?> 
-                        <span class="text-muted text-xs block" style="font-size:12px">by PHPJabbers.com</span>
+                        <span class="text-muted text-xs block" style="font-size:12px">by WebbyPage</span>
                         <?php
                     }
                     ?> 

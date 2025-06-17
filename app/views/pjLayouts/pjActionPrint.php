@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Appointment Scheduler by PHPJabbers.com</title>
+		<title>Car Rental - WebbyPage</title>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 		<link type="text/css" rel="stylesheet" href="<?php echo PJ_INSTALL_URL . PJ_CSS_PATH?>print.css" />
 		<style type="text/css">

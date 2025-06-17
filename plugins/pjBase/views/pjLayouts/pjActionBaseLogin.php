@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title><?php __('script_name') ?> by PHP Jabbers.com</title>
+    <title><?php __('script_name') ?> by WebbyPage.com</title>
     <?php
     $cnt = count($controller->getCss());
     foreach ($controller->getCss() as $i => $css)
@@ -41,7 +41,7 @@
                             echo pjSanitize::html($tpl['option_arr']['o_footer_text']);
                         }else{
                             ?>
-                            Copyright <strong><a href="https://www.phpjabbers.com" target="_blank">PHPJabbers.com</a></strong> &copy; <?php echo date('Y'); ?>
+                            Copyright <strong><a href="https://www.webbypage.com" target="_blank">WebbyPage</a></strong> &copy; <?php echo date('Y'); ?>
                             <?php
                         }
                     }
